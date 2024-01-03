@@ -1,4 +1,9 @@
 div{
     background-color:olivedrab;
     padding: 10px;
+
+    img{height: 300px;;
+        width: 300px;;
+
+}
 }
